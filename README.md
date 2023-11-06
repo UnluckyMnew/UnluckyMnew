@@ -31,6 +31,19 @@ ___
 
 <p align="left"> <a href="https://www.github.com/UnluckyMnew" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FUnluckyMnew&label=VISITORS&labelColor=%23d9e3f0&countColor=%23263759)
+
 ___
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=UnluckyMnew&show_icons=true&hide=[%22issues%22])
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=UnluckyMnew&show_icons=true&hide=[%22issues%22]" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
