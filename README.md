@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita
 
-<!--
-**UnluckyMnew/UnluckyMnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-Here are some ideas to get you started:
+## Web developer from Belarus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">. На данный момент мне 21 год.
+Знакомство с миром it я начал в 2019 году в последствии пробуя себя в различных направлениях, пробовал изучать
+такие языки как C#, Python, однако сильнее всего меня зацепил JavaScript. Изучение как
+самого JS так и всего сопутствующего в веб разработке я начал с Июня 2022 года.
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
