@@ -15,11 +15,9 @@ ___
 ### ⚙️ GitHub статистика:
 
 <table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UnluckyMnew&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
+  <td>
+    <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UnluckyMnew&layout=compact&theme=vision-friendly-dark" />
+  </td>
 </table>
 
 ___
