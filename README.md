@@ -17,9 +17,6 @@ ___
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=UnluckyMnew&show_icons=true&hide=[%22issues%22]" alt="webDev's Github stats" />
-    </td>
-    <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UnluckyMnew&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
